@@ -4,8 +4,8 @@
 
 /* ROOM */
 
-const roomName = 'Room Name';
-const botName = 'HaxBot';
+const roomName = '||🟦𝐅𝐔𝐓𝐒𝐀𝐋 𝐕𝟑 𝐁𝐎𝐓𝐋𝐔🟦||';
+const botName = '𝐁𝐎𝐓𝟎𝟗𝟖';
 const maxPlayers = 12;
 const roomPublic = false;
 const geo = [
