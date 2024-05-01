@@ -9,7 +9,7 @@ const botName = 'HaxBot';
 const maxPlayers = 12;
 const roomPublic = false;
 const geo = [
-    { code: 'DE', lat: 51.1, lon: 10.4 },
+    { code: 'TR', lat: 51.1, lon: 10.4 },
     { code: 'FR', lat: 46.2, lon: 2.2 },
     { code: 'PL', lat: 51.9, lon: 19.1 },
     { code: 'GB', lat: 55.3, lon: -3.4 },
